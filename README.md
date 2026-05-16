@@ -5,13 +5,15 @@
 A personal learning repository where I document my DSA journey using Java — from the very basics to more advanced problem solving, one topic at a time.
 
 📂 Repository Structure
+```text
 dsa-in-java/
 └── src/
-├── arrays/
-├── hashing/
-├── searching/
-├── recursion/
-├── problems/
+    ├── arrays/
+    ├── hashing/
+    ├── searching/
+    ├── recursion/
+    └── problems/
+```
 
 Topics and folders will keep expanding as the learning progresses.
 
