@@ -1,69 +1,143 @@
-📘 DSA in Java
+<div align="center">
 
-🚧 Work in Progress — Actively learning Data Structures and Algorithms in Java. This repository grows as I learn.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" />
 
-A personal learning repository where I document my DSA journey using Java — from the very basics to more advanced problem solving, one topic at a time.
+# 📘 DSA in Java
 
-📂 Repository Structure
+<p>
+A personal journey through Data Structures & Algorithms using Java — one problem at a time.
+</p>
+
+![Java](https://img.shields.io/badge/Java-21-orange)
+![DSA](https://img.shields.io/badge/Focus-DSA-blue)
+![Status](https://img.shields.io/badge/Status-Learning-green)
+
+</div>
+
+---
+
+# 👩‍💻 About The Project
+
+This repository documents my active learning journey in **Data Structures and Algorithms using Java**.
+
+I'm building strong problem-solving skills by learning concepts from the ground up, solving coding problems, and gradually progressing toward advanced DSA topics.
+
+Every folder and file in this repository represents part of that journey.
+
+---
+
+# 🛠️ Built With
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+
+</div>
+
+---
+
+# 📚 Repository Structure
+
 ```text
-dsa-in-java/
-└── src/
-    ├── arrays/
-    ├── hashing/
-    ├── searching/
-    ├── recursion/
-    └── problems/
+📁 dsa-in-java/
+└── 📁 src/
+    ├── 📂 arrays/
+    ├── 📂 hashing/
+    ├── 📂 searching/
+    ├── 📂 sorting/
+    ├── 📂 recursion/
+    ├── 📂 linkedlist/
+    ├── 📂 stack/
+    ├── 📂 queue/
+    ├── 📂 trees/
+    ├── 📂 graphs/
+    ├── 📂 dynamic-programming/
+    └── 📂 problems/
 ```
 
-Topics and folders will keep expanding as the learning progresses.
+More topics and problems will continue to be added as the learning progresses.
 
+---
 
-🗺️ Topics Planned to Cover
+# ✨ What I'm Learning
 
-Arrays & Strings (including LeetCode problems like Two Sum)
-Linked Lists
-Stacks & Queues
-Trees & Binary Search Trees
-Graphs (BFS, DFS)
-Recursion & Backtracking
-Sorting & Searching Algorithms
-Dynamic Programming
+- Breaking down problems algorithmically
+- Writing clean and optimized Java code
+- Understanding time and space complexity
+- Solving LeetCode problems consistently
+- Building interview-level problem-solving skills
 
+---
 
-⚙️ Prerequisites
+# 🚀 Getting Started
 
-Java 8+ installed
-Any IDE: IntelliJ IDEA, Eclipse, or VS Code with Java extension
+## Prerequisites
 
+- Java 8+
+- IntelliJ IDEA / Eclipse / VS Code
 
-🛠️ How to Run
+---
 
-Clone the repository
+## Clone the Repository
 
-bash   git clone https://github.com/TanuSharma08/dsa-in-java.git
+```bash
+git clone https://github.com/TanuSharma08/dsa-in-java.git
+```
+
+```bash
 cd dsa-in-java
+```
 
-Open in your IDE and navigate to src/
-Run any file directly from the IDE, or via terminal:
+---
 
-bash   javac src/arrays/TwoSum.java
+## Compile & Run
+
+```bash
+javac src/arrays/TwoSum.java
+```
+
+```bash
 java src/arrays/TwoSum
+```
 
-🎯 Purpose
-This repository is my personal space to:
+---
 
-Practice and reinforce DSA concepts through Java
-Keep track of my learning progress
-Prepare for coding interviews over time
+# 🎯 Goals
 
+- Build a strong DSA foundation using Java
+- Solve problems consistently
+- Improve logical thinking and coding skills
+- Prepare for coding interviews
+- Track progress publicly
 
-🤝 Contributing
-This is primarily a personal learning repo, but suggestions and improvements are always welcome!
+---
 
-Fork the repo
-Create a new branch: git checkout -b suggestion/topic-name
-Commit your changes and open a Pull Request
+# 🤝 Contributing
 
+This is primarily a personal learning repository, but suggestions and improvements are always welcome.
 
-👩‍💻 Author
-Tanu Sharma
+1. Fork the repository
+2. Create a branch
+
+```bash
+git checkout -b suggestion/topic-name
+```
+
+3. Commit your changes
+
+```bash
+git commit -m "Add: suggestion"
+```
+
+4. Open a Pull Request
+
+---
+
+<div align="center">
+
+Made with ❤️ by **Tanu Sharma**
+
+</div>
