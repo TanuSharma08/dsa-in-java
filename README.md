@@ -136,6 +136,10 @@ git commit -m "Add: suggestion"
 
 ---
 
+# 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
 <div align="center">
 
 Made with ❤️ by **Tanu Sharma**
